@@ -1,6 +1,6 @@
 A personal project using C++ Object Oriented programming. This medication management system organizes where each patient is associated with a set of medications.
 
-<img width="1186" alt="Screenshot 2024-09-11 at 10 27 37 AM" src="https://github.com/user-attachments/assets/c16b4b3f-49b2-446e-80f8-c222cd49e1b8">
+<img width="1186" alt="medication-management-system" src="https://github.com/user-attachments/assets/6c723a92-020a-4457-87e6-80a27915aa0e">
 
 In-patient hospital units are reqired to record dispensing and inventory of all medications. This program simulates a system that fills prescriptions in hospital rooms from inventory.
 
