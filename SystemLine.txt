@@ -1,0 +1,8 @@
+Acetaminophen | Ibuprofen
+Furosemide | Omeprazole
+Amoxicillin | Insulin
+Lisinopril | Metoprolol
+Acetaminophen | Ibuprofen
+Omeprazole | Furosemide
+Insulin | Lisinopril
+Metoprolol | Amoxicillin

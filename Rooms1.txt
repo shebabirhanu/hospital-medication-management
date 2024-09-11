@@ -1,0 +1,4 @@
+Amoxicillin,    4343,  10,  Antibiotic used to treat bacterial infections
+Ibuprofen,         43244,   5,  Non-steroidal anti-inflammatory drug (NSAID)
+Acetaminophen,     4324,    7,  Pain reliever and fever reducer
+Insulin,  3242,      5,  Used to control blood sugar levels in patients with diabetes

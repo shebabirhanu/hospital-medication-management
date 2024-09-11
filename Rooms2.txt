@@ -1,0 +1,4 @@
+Lisinopril | 987654 |  5 | ACE inhibitor used to treat high blood pressure and heart failure
+Metoprolol   | 147852 | 20 | Beta-blocker used to treat high blood pressure and heart conditions
+Omeprazole       | 987 |  5 | Proton pump inhibitor used to reduce stomach acid and treat GERD
+Furosemide           | 459214 |  2 | Diuretic used to reduce fluid retention (edema) and treat high blood pressure

@@ -1,0 +1,5 @@
+Ella Barnes | Room A | Amoxicillin | Acetaminophen | Omeprazole
+Alex Smith | Room B | Ibuprofen | Insulin | Furosemide
+Steven Max | Room C | Metoprolol | Acetaminophen | Insulin | Amoxicillin
+Jessica North | Room A | Lisinopril | Omeprazole | Ibuprofen | Furosemide
+Ramona Black | Room D | Insulin | Lisinopril | Metoprolol | Acetaminophen
